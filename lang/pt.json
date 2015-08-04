@@ -4,7 +4,7 @@
     "datarestored": "Dados armazenados anteriormente recuperados.",
     "greyuser": "Apenas Seguranças ou superiores podem usar o bot.",
     "bouncer": "O bot não pode mover pessoas na fila de espera quando usado por um segurança.",
-    "online": "/me %%BOTNAME%% v%%VERSION%% bem finíssimo ativado! :nail_care:",
+    "online": "/me %%BOTNAME%% v%%VERSION%% ativado!",
 
 
     "welcome": "Bem-vindo(a), %%NAME%%",
